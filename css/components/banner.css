@@ -1,0 +1,62 @@
+.banner {
+    background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url(../../images/beach.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+  }
+
+div {
+    display: block;
+}
+
+
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+.banner h1 {
+    color: white;
+}
+
+
+.banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.btn-primary{
+color: white;
+border-color: white;
+border-style: solid;
+border-radius: 150px;
+padding: 10px;
+margin-top: : 50PX;
+
+}
+
+.btn-primary:hover {
+text-decoration: none;
+background-color: white;
+color: black;
+text-decoration: none;
+}
+
+
+
+
+
+a {
+    text-decoration: none;
+}
